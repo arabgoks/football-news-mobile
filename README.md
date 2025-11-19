@@ -16,4 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-tes
+# Football News
+
+[![Build Status](https://app.bitrise.io/app/78460029-35fc-41e3-bfd6-3670131c7fde/status.svg?token=yCoj30_W69POWSX78Fujmw&branch=master)](https://app.bitrise.io/app/78460029-35fc-41e3-bfd6-3670131c7fde)
+
+## Download
+Download aplikasi versi terbaru: [Download APK](https://app.bitrise.io/app/78460029-35fc-41e3-bfd6-3670131c7fde/installable-artifacts/158a8e897be5ee3c/public-install-page/4f479c557485ab0b40b421fe292cd4f5)
